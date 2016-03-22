@@ -1,0 +1,28 @@
+name: Of the Trade
+favicon: null
+layout_spectrum: 0.1912530700210482
+typography_spectrum: 0.13876338861882687
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6821101843379438
+  lightness: 0.2721116170287132
+  saturation: 0.33069861005060375
+  rhythmicContrast: 0.3880993528291583
+purpose: []
